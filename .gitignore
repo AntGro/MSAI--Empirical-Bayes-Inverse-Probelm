@@ -1,2 +1,7 @@
 # Project exclude paths
 /basicenv/
+.idea
+.ipynb_checkpoints
+/rapport
+Maximum likelihood estimation of regularisation parameters in high-dimensional inverse problems: an empirical Bayesian approach copie.pdf
+Maximum likelihood estimation of regularisation parameters in high-dimensional inverse problems: an empirical Bayesian approach copie 2.pdf
